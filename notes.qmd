@@ -12,17 +12,17 @@ Office hour: Wed. 11:00-12:00 (and by appointment), R638, General Building III.\
 | 09/08 (No class)|Vector spaces and fields|  [09/08](notes/LAI0908.pdf)|
 | 09/15 	|Vector subspaces, direct sums and quotient spaces|[Sol1](notes/LAIHW1PS.pdf)<br>[09/15](notes/LAI0915.pdf)|
 | 09/22 	|       	|       	| 
-| 09/29* 	|           |       	|             	
+| 09/29 	|Quiz 1           |       	|             	
 | 10/06 	|       	|       	|             	
-| 10/13* 	|           |       	|             	
+| 10/13 	|Quiz 2           |       	|             	
 | 10/20 	|       	|       	|             	
 | 10/27 	|       	|       	|             	
 | 11/03 	|       	|       	|             	
 | 11/10 	|       	|       	|             	
 | 11/17 	|       	|       	|             	
-| 11/24* 	|           |       	|             	
+| 11/24 	|Quiz 3           |       	|             	
 | 12/01 	|       	|       	|             	
-| 12/08* 	|           |       	|             	
+| 12/08 	|Quiz 4           |       	|             	
 | 12/15 	|       	|       	|             	
 | 12/22 	|       	|       	|             	
 
