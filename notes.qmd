@@ -11,7 +11,7 @@ Office hour: Wed. 11:00-12:00 (and by appointment), R638, General Building III.\
 |:-----:	|:-----	|:-----	|
 | 09/08 (No class)|Vector spaces and fields|  [09/08](notes/LAI0908.pdf)|
 | 09/15 	|Vector subspaces, direct sums and quotient spaces|[Sol1](notes/LAIHW1PS.pdf) [09/15](notes/LAI0915.pdf)|
-| 09/22 	|       	|       	| 
+| 09/22 	|Linear combinations, spans and linear independence||
 | 09/29 	|Quiz 1           |       	|             	
 | 10/06 	|       	|       	|             	
 | 10/13 	|Quiz 2           |       	|             	
