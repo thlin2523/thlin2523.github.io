@@ -13,7 +13,7 @@ Office hour: Wed. 11:00-12:00 (and by appointment), R638, General Building III.\
 | 09/15 	|Vector subspaces, direct sums and quotient spaces|[Sol1](notes/LAIHW1PS.pdf) [09/15](notes/LAI0915.pdf)|
 | 09/22 	|Linear combinations, spans and linear independence|[Sol2](notes/LAIHW2PS.pdf) [09/22](notes/LAI0922.pdf)|
 | 09/29 	|Quiz 1, bases and dimensions           |[Sol3](notes/LAIHW3PS.pdf) [09/29](notes/LAI0929.pdf)|             	
-| 10/06 	|       	|       	|             	
+| 10/06 	|Linear transformations and projections       	|[10/06](notes/LAI1006.pdf)       	|             	
 | 10/13 	|Quiz 2           |       	|             	
 | 10/20 	|       	|       	|             	
 | 10/27 	|       	|       	|             	
