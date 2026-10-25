@@ -16,7 +16,7 @@ Office hour: Wed. 11:00-12:00 (and by appointment), R638, General Building III.\
 | 10/06 	|Linear transformations and projections       	|[Sol4](notes/LAIHW4PS.pdf) [10/06](notes/LAI1006.pdf)       	|             	
 | 10/13 	|Matrix representation of linear transformations and<br>invariant subspaces           |[Sol5](notes/LAIHW5PS.pdf) [10/13](notes/LAI1013.pdf) [Quiz 2](notes/Quiz2sol.pdf)       	|             	
 | 10/20 	|Isomorphisms and the isomorphism theorems       	|[Sol6](notes/LAIHW6PS.pdf) [10/20](notes/LAI1020.pdf)       	|             	
-| 10/27 	|       	|       	|             	
+| 10/27 	|Change of coordinate matrices and exact sequences     	|[10/27](notes/LAI1027.pdf)       	|             	
 | 11/03 	|       	|       	|             	
 | 11/10 	|       	|       	|             	
 | 11/17 	|       	|       	|             	
