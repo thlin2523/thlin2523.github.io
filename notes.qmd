@@ -18,7 +18,7 @@ Office hour: Wed. 11:00-12:00 (and by appointment), R638, General Building III.\
 | 10/20 	|Isomorphisms and the isomorphism theorems       	|[Sol6](notes/LAIHW6PS.pdf) [10/20](notes/LAI1020.pdf)       	|             	
 | 10/27 	|Change of coordinate matrices and exact sequences     	|[10/27](notes/LAI1027.pdf)       	| 
 |          	|Midterm       	|[Solution](notes/LAImidsol.pdf)       	|               	
-| 11/03 	|       	|       	|             	
+| 11/03 	|Dual spaces      	|[11/03](notes/LAI1103.pdf)       	|             	
 | 11/10 	|       	|       	|             	
 | 11/17 	|       	|       	|             	
 | 11/24 	|Quiz 3           |       	|             	
