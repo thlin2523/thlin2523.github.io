@@ -10,16 +10,16 @@ Office hour: Wed. 11:00-12:00 (and by appointment), R638, General Building III.\
 |  Date 	| Topic 	| Notes 	|
 |:-----:	|:-----	|:-----	|
 | 09/08 (No class)|Vector spaces and fields|  [09/08](notes/LAI0908.pdf)|
-| 09/15 	|Vector subspaces, direct sums and quotient spaces|[Sol1](notes/LAIHW1PS.pdf) [09/15](notes/LAI0915.pdf)|
-| 09/22 	|Linear combinations, spans and linear independence|[Sol2](notes/LAIHW2PS.pdf) [09/22](notes/LAI0922.pdf)|
-| 09/29 	|Bases and dimensions           |[Sol3](notes/LAIHW3PS.pdf) [09/29](notes/LAI0929.pdf) [Quiz 1](notes/Quiz1sol.pdf)|             	
-| 10/06 	|Linear transformations and projections       	|[Sol4](notes/LAIHW4PS.pdf) [10/06](notes/LAI1006.pdf)       	|             	
-| 10/13 	|Matrix representation of linear transformations and<br>invariant subspaces           |[Sol5](notes/LAIHW5PS.pdf) [10/13](notes/LAI1013.pdf) [Quiz 2](notes/Quiz2sol.pdf)       	|             	
-| 10/20 	|Isomorphisms and the isomorphism theorems       	|[Sol6](notes/LAIHW6PS.pdf) [10/20](notes/LAI1020.pdf)       	|             	
+| 09/15 	|Vector subspaces, direct sums and quotient spaces|[HW1](notes/LAIHW1PS.pdf) [09/15](notes/LAI0915.pdf)|
+| 09/22 	|Linear combinations, spans and linear independence|[HW2](notes/LAIHW2PS.pdf) [09/22](notes/LAI0922.pdf)|
+| 09/29 	|Bases and dimensions           |[HW3](notes/LAIHW3PS.pdf) [09/29](notes/LAI0929.pdf) [Quiz 1](notes/Quiz1sol.pdf)|             	
+| 10/06 	|Linear transformations and projections       	|[HW4](notes/LAIHW4PS.pdf) [10/06](notes/LAI1006.pdf)       	|             	
+| 10/13 	|Matrix representation of linear transformations and<br>invariant subspaces           |[HW5](notes/LAIHW5PS.pdf) [10/13](notes/LAI1013.pdf) [Quiz 2](notes/Quiz2sol.pdf)       	|             	
+| 10/20 	|Isomorphisms and the isomorphism theorems       	|[HW6](notes/LAIHW6PS.pdf) [10/20](notes/LAI1020.pdf)       	|             	
 | 10/27 	|Change of coordinate matrices and exact sequences     	|[10/27](notes/LAI1027.pdf)       	| 
 |          	|Midterm       	|[Solution](notes/LAImidsol.pdf)       	|               	
 | 11/03 	|Dual spaces      	|[11/03](notes/LAI1103.pdf)       	|             	
-| 11/10 	|Elementary matrices and the Smith normal form       	|[11/10](notes/LAI1110.pdf)    	|             	
+| 11/10 	|Elementary matrices and the Smith normal form       	|[HW9](notes/LAIHW9PS.pdf) [11/10](notes/LAI1110.pdf)    	|             	
 | 11/17 	|       	|       	|             	
 | 11/24 	|Quiz 3           |       	|             	
 | 12/01 	|       	|       	|             	
