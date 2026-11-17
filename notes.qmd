@@ -20,7 +20,7 @@ Office hour: Wed. 11:00-12:00 (and by appointment), R638, General Building III.\
 |          	|Midterm       	|[Solution](notes/LAImidsol.pdf)       	|               	
 | 11/03 	|Dual spaces      	|[11/03](notes/LAI1103.pdf)       	|             	
 | 11/10 	|Elementary matrices and the Smith normal form       	|[HW9](notes/LAIHW9PS.pdf) [11/10](notes/LAI1110.pdf)    	|             	
-| 11/17 	|Rank inequalities, ideals and the Euclidean algorithm       	|[11/17](notes/LAI1117.pdf)       	|             	
+| 11/17 	|Rank inequalities, ideals and the Euclidean algorithm       	|[HW10](notes/LAIHW10PS.pdf) [11/17](notes/LAI1117.pdf)       	|             	
 | 11/24 	|Quiz 3           |       	|             	
 | 12/01 	|       	|       	|             	
 | 12/08 	|Quiz 4           |       	|             	
